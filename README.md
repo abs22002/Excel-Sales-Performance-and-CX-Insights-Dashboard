@@ -1,4 +1,4 @@
-# Advanced Excel-Sales-Performance-and-CX-Insights-Dashboard
+# Excel-Sales-Performance-and-CX-Insights-Dashboard
 
 An advanced Excel project that analyzes company sales performance, customer behavior, and profit margins.
 
