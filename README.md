@@ -1,6 +1,6 @@
-# Excel Sales Performance and CX Insights Dashboard
+# Excel - Company Sales Performance and CX Insights Dashboard
 
-An advanced Excel project that analyzes company sales performance, customer behavior, and profit margins.
+An Excel project that analyzes company sales performance, customer behavior, top selling products, and profit margins.
 
 ## Key Features
 - Data cleaning & transformation using Power Query
